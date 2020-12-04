@@ -1,4 +1,4 @@
-[Demo](http://cperes.com.br/rgba)
+[See the Demo](http://cperes.com.br/rgba)
 
 # Getting Started with Create React App
 
